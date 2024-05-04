@@ -2,15 +2,6 @@
 
 Heathrow is a landing project designed to provide a sleek and user-friendly interface for businesses to showcase their products or services.
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
 Heathrow is a landing page project built with HTML, CSS, and JavaScript. It aims to help businesses create an impactful online presence by providing a modern and responsive landing page template.
