@@ -1,13 +1,30 @@
-# Solid
+# Heathrow
 
-A landing page template.
+Heathrow is a landing project designed to provide a sleek and user-friendly interface for businesses to showcase their products or services.
 
-* [Getting started](#getting-started)
+## Table of Contents
 
-## Getting started
-* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
-* This template requires Node 14 to work. You can handle multiple node versions with [NVM](https://github.com/nvm-sh/nvm) 
-* Next, use your command line to enter your project directory.
-* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
+## About
+
+Heathrow is a landing page project built with HTML, CSS, and JavaScript. It aims to help businesses create an impactful online presence by providing a modern and responsive landing page template.
+
+## Features
+
+- Responsive design: Ensures optimal viewing experience across various devices.
+- Easy customization: Allows users to easily customize the content and layout according to their needs.
+- Smooth animations: Incorporates smooth animations to enhance user experience.
+- SEO-friendly: Optimized for search engines to improve visibility and reach.
+
+## Installation
+
+To use Heathrow, simply clone this repository to your local machine:
+
+```bash
+git clone https://github.com/Jainsta/Heathrow.git
